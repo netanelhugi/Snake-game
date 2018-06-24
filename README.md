@@ -26,7 +26,9 @@ open "snake.pde" (Processing file) or "snake.java".
 in Windows:</br>
 open the folder:
 >/application.windows32 </br>
-or
+
+or </br>
+
 >/application.windows64 </br>
 
 and run "snake.exe".
