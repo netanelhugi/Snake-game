@@ -11,11 +11,6 @@ With the microcontroller we will control the movement of the snake by the chip b
 and we'll see when the snake close to the wall when the light on the chip will turn on.
 
 
-
-
-
-
-
 **How to run:**</br>
 Clone the repository to your computer,</br>
 and follow the instructions.
@@ -46,7 +41,12 @@ and run "snake.exe".
 load "snake.pde" file in Processing, and press "run".</br>
 
 
-</br>
+
+
+
+
+
+
 **For Microcontroller version(tested only on our Tiva LaunchPad):**</br>
 
 You can see the code in the folder:</br>
