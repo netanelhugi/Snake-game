@@ -5,13 +5,13 @@
 
 **About the project:**</br>
 In this project we build a 'snake' game by Processing,
-and connect between the game and microcontroller(Tiva C Series TM4C123G LaunchPad).
+and connect between the game and</br>
+microcontroller(Tiva C Series TM4C123G LaunchPad).</br>
 With the microcontroller we will control the movement of the snake by the chip buttons,
 and we'll see when the snake close to the wall when the light on the chip will turn on.
 
 
-**How to run:**
-
+**How to run:**</br>
 Clone the repository to your computer.
 
 **Keyboard version:**
