@@ -18,16 +18,16 @@ and follow the instructions.
 **Keyboard version:**</br>
 
 You can see the code in the folder:</br>
->"Keyboard-version/snake"</br>
+>/Keyboard-version/snake</br>
 
-open "snake.pde"(Processing file)</br>
-or "snake.java".
+open "snake.pde" (Processing file) or "snake.java".
 
-**How to play:**
-in Windows:
-open:
->"application.windows32"/"application.windows64" 
-folder
+**How to play:**</br>
+in Windows:</br>
+open the folder:
+>/application.windows32 </br>
+>/application.windows32 </br>
+
 and run "snake.exe".
 
 in Linux:
