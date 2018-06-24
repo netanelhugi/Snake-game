@@ -23,7 +23,9 @@ You can see the code in the folder:</br>
 open "snake.pde" (Processing file) or "snake.java".
 
 **How to play:**</br>
+
 in Windows:</br>
+
 open the folder:
 >/application.windows32 </br>
 
@@ -33,8 +35,9 @@ or </br>
 
 and run "snake.exe".
 
-in Linux:
-load "snake.pde" file in Processing, and press "run".
+in Linux:</br>
+
+load "snake.pde" file in Processing, and press "run".</br>
 
 **For Microcontroller version(Only tested on our Tiva LaunchPad):**
 The code you can see in the folder:
