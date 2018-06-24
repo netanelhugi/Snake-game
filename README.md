@@ -15,7 +15,7 @@ and we'll see when the snake close to the wall when the light on the chip will t
 Clone the repository to your computer,</br>
 and follow the instructions.
 
-**Keyboard version:**</br>
+**For Keyboard version:**</br>
 
 You can see the code in the folder:</br>
 >/Keyboard-version/snake</br>
@@ -26,14 +26,15 @@ open "snake.pde" (Processing file) or "snake.java".
 in Windows:</br>
 open the folder:
 >/application.windows32 </br>
->/application.windows32 </br>
+or
+>/application.windows64 </br>
 
 and run "snake.exe".
 
 in Linux:
 load "snake.pde" file in Processing, and press "run".
 
-**Microcontroller version(Only tested on our Tiva LaunchPad):**
+**For Microcontroller version(Only tested on our Tiva LaunchPad):**
 The code you can see in the folder:
 "Microcontroller-version/snake"
 open "snake.pde"(Processing file)
