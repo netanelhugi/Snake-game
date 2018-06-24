@@ -11,11 +11,14 @@ With the microcontroller we will control the movement of the snake by the chip b
 and we'll see when the snake close to the wall when the light on the chip will turn on.
 
 
+
+
+
+
+
 **How to run:**</br>
 Clone the repository to your computer,</br>
 and follow the instructions.
-
-</br>
 
 **For Keyboard version:**</br>
 
