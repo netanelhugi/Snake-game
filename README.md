@@ -7,18 +7,19 @@
 In this project we build a 'snake' game by Processing,
 and connect between the game and</br>
 microcontroller(Tiva C Series TM4C123G LaunchPad).</br>
-With the microcontroller we will control the movement of the snake by the chip buttons,
+With the microcontroller we will control the movement of the snake by the chip buttons,</br>
 and we'll see when the snake close to the wall when the light on the chip will turn on.
 
 
 **How to run:**</br>
-Clone the repository to your computer.
+Clone the repository to your computer,</br>
+and follow the instructions.
 
-**Keyboard version:**
+**Keyboard version:**</br>
 
-The code you can see in the folder:
-"Keyboard-version/snake"
-open "snake.pde"(Processing file)
+You can see the code in the folder:</br>
+>"Keyboard-version/snake"
+open "snake.pde"(Processing file)</br>
 or "snake.java".
 
 **How to play:**
