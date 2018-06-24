@@ -24,7 +24,7 @@ open "snake.pde" (Processing file) or "snake.java".
 
 **How to play:**</br>
 
-in Windows:</br>
+*in Windows:*</br>
 
 open the folder:
 >/application.windows32 </br>
@@ -35,21 +35,29 @@ or </br>
 
 and run "snake.exe".
 
-in Linux:</br>
+
+*in Linux:*</br>
 
 load "snake.pde" file in Processing, and press "run".</br>
 
-**For Microcontroller version(Only tested on our Tiva LaunchPad):**
-The code you can see in the folder:
-"Microcontroller-version/snake"
-open "snake.pde"(Processing file)
-or "snake.java".
 
-**How to connect the microcontroller:**
+**For Microcontroller version(Only tested on our Tiva LaunchPad):**</br>
 
-Install "Energia" software.
-Connect the chip to your computer by USB.
-Load "EnergiaChipSync.ino" to Energia and sync.
+You can see the code in the folder:</br>
+
+>"Microcontroller-version/snake"</br>
+
+open "snake.pde" (Processing file) or "snake.java".
+
+
+**How to connect the microcontroller:**</br>
+
+Install Energia software.</br>
+Connect the chip to your computer by USB.</br>
+Load </br>
+>/energia/EnergiaChipSync.ino</br>
+to Energia and sync.</br>
+
 
 **How to play:**
 
