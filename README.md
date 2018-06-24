@@ -18,7 +18,7 @@ and follow the instructions.
 **Keyboard version:**</br>
 
 You can see the code in the folder:</br>
->"Keyboard-version/snake"
+>"Keyboard-version/snake"</br>
 open "snake.pde"(Processing file)</br>
 or "snake.java".
 
