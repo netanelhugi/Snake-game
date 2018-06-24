@@ -1,7 +1,7 @@
 # Snake-game
 
 
-##**Computer architecture course project**
+## **Computer architecture course project**
 
 **About the project:**
 In this project we build a 'snake' game by Processing,
@@ -10,11 +10,12 @@ With the microcontroller we will control the movement of the snake by the chip b
 and we'll see when the snake close to the wall when the light on the chip will turn on.
 
 
-**How to run:**<br/>
+**How to run:**
 
 Clone the repository to your computer.
 
 **Keyboard version:**
+
 The code you can see in the folder:
 "Keyboard-version/snake"
 open "snake.pde"(Processing file)
