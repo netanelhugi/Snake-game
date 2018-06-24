@@ -52,7 +52,7 @@ open "snake.pde" (Processing file) or "snake.java".
 
 **How to connect the microcontroller:**</br>
 
-Install Energia software.</br>
+Install [Energia](http://energia.nu/)</br>
 Connect the chip to your computer by USB.</br>
 Load </br>
 >/energia/EnergiaChipSync.ino</br>
