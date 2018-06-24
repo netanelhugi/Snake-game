@@ -45,7 +45,7 @@ load "snake.pde" file in Processing, and press "run".</br>
 
 You can see the code in the folder:</br>
 
->"Microcontroller-version/snake"</br>
+>/Microcontroller-version/snake</br>
 
 open "snake.pde" (Processing file) or "snake.java".
 
@@ -56,6 +56,7 @@ Install Energia software.</br>
 Connect the chip to your computer by USB.</br>
 Load </br>
 >/energia/EnergiaChipSync.ino</br>
+
 to Energia and sync.</br>
 
 
