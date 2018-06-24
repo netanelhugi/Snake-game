@@ -27,11 +27,11 @@ open "snake.pde" (Processing file) or "snake.java".
 *in Windows:*</br>
 
 open the folder:
->/application.windows32 </br>
+>/Keyboard-version/application.windows32 </br>
 
 or </br>
 
->/application.windows64 </br>
+>/Keyboard-version/application.windows64 </br>
 
 and run "snake.exe".
 
@@ -41,7 +41,7 @@ and run "snake.exe".
 load "snake.pde" file in Processing, and press "run".</br>
 
 
-**For Microcontroller version(Only tested on our Tiva LaunchPad):**</br>
+**For Microcontroller version(tested only on our Tiva LaunchPad):**</br>
 
 You can see the code in the folder:</br>
 
@@ -62,9 +62,18 @@ to Energia and sync.</br>
 
 **How to play:**
 
-in Windows:
-open "application.windows32"/"application.windows64" folder
+*in Windows:*</br>
+
+open the folder:
+>/Microcontroller-version/application.windows32 </br>
+
+or </br>
+
+>/Microcontroller-version/application.windows64 </br>
+
 and run "snake.exe".
 
-in Linux:
-load "snake.pde" file in Processing, and press "run".
+
+*in Linux:*</br>
+
+load "snake.pde" file in Processing, and press "run".</br>
